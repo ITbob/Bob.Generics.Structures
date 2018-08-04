@@ -1,0 +1,170 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "4edb4beb1fb6f34ad93f28376bb6067638b3bbad"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Bob.Generics.Structures.RTree.Test/1.0.0": {
+        "dependencies": {
+          "Bob.Generics.Structures": "1.0.0",
+          "Bob.Generics.Structures.RTree": "1.0.0",
+          "NETStandard.Library": "2.0.1",
+          "NUnit": "3.10.1",
+          "NUnit.Extension.NUnitProjectLoader": "3.6.0",
+          "NUnit.Runners": "3.8.0"
+        },
+        "runtime": {
+          "Bob.Generics.Structures.RTree.Test.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.CSharp.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.1": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "NUnit/3.10.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/nunit.framework.dll": {}
+        }
+      },
+      "NUnit.ConsoleRunner/3.8.0": {},
+      "NUnit.Extension.NUnitProjectLoader/3.6.0": {},
+      "NUnit.Extension.NUnitV2Driver/3.6.0": {},
+      "NUnit.Extension.NUnitV2ResultWriter/3.5.0": {},
+      "NUnit.Extension.TeamCityEventListener/1.0.3": {},
+      "NUnit.Extension.VSProjectLoader/3.7.0": {},
+      "NUnit.Runners/3.8.0": {
+        "dependencies": {
+          "NUnit.ConsoleRunner": "3.8.0",
+          "NUnit.Extension.NUnitProjectLoader": "3.6.0",
+          "NUnit.Extension.NUnitV2Driver": "3.6.0",
+          "NUnit.Extension.NUnitV2ResultWriter": "3.5.0",
+          "NUnit.Extension.TeamCityEventListener": "1.0.3",
+          "NUnit.Extension.VSProjectLoader": "3.7.0"
+        }
+      },
+      "Bob.Generics.Structures/1.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0"
+        },
+        "runtime": {
+          "Bob.Generics.Structures.dll": {}
+        }
+      },
+      "Bob.Generics.Structures.RTree/1.0.0": {
+        "dependencies": {
+          "Bob.Generics.Structures": "1.0.0"
+        },
+        "runtime": {
+          "Bob.Generics.Structures.RTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bob.Generics.Structures.RTree.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EGoBmf3Na2ppbhPePDE9PlX81r1HuOZH5twBrq7couJZiPTjUnD3648balerQJO6EJ8Sj+43+XuRwQ7r+3tE3w==",
+      "path": "microsoft.csharp/4.5.0",
+      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+      "path": "netstandard.library/2.0.1",
+      "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
+    },
+    "NUnit/3.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E3ii6+VLdeIxTQ5gPjk/7g/xl+aCifbfcIkiGayZCuos+22FEdtKGrxMe6SzoXCQCcL7gdqhfNIFTaZ1+dS18g==",
+      "path": "nunit/3.10.1",
+      "hashPath": "nunit.3.10.1.nupkg.sha512"
+    },
+    "NUnit.ConsoleRunner/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CGgYNNMPmK7/BZ7g36g1GcS3heLN2Zl2aAm54dhOZAXZW3l+3S+imyZ3J9WA+SCiRyBC0PbmkCtb4dVkxoxytw==",
+      "path": "nunit.consolerunner/3.8.0",
+      "hashPath": "nunit.consolerunner.3.8.0.nupkg.sha512"
+    },
+    "NUnit.Extension.NUnitProjectLoader/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ev2+dCJShMNIATkYNm/vHEuieBfbismr9DcUfBvafJZf5vNyugXPuMXO/MaOFcJaoW9j6/zjMmXKG7R5umWzXA==",
+      "path": "nunit.extension.nunitprojectloader/3.6.0",
+      "hashPath": "nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512"
+    },
+    "NUnit.Extension.NUnitV2Driver/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TZIWwZaND/91p9FCuZH0vJLNPVyFV4No6XHgtd2ZLwN6MQZVPWdI4apL38ejsKAFn3nF1yTlvJgYF1l2mlo8wA==",
+      "path": "nunit.extension.nunitv2driver/3.6.0",
+      "hashPath": "nunit.extension.nunitv2driver.3.6.0.nupkg.sha512"
+    },
+    "NUnit.Extension.NUnitV2ResultWriter/3.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qz5Xxd+yBStdMP/jIIFz01cN3x8rKBCoF3alFHa5Gr+lZqdFyV1DN+3l8AlHrDSX5OzAz+T5CCBkgDim/hqGkQ==",
+      "path": "nunit.extension.nunitv2resultwriter/3.5.0",
+      "hashPath": "nunit.extension.nunitv2resultwriter.3.5.0.nupkg.sha512"
+    },
+    "NUnit.Extension.TeamCityEventListener/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xl/ISHoJMbQHxpfa06KELaSU46V+KjofeZHAPmlb6ohw4HmmzRp+Hk7vkJPZtNyTrKZbqutefOSMKpnkgEl8tA==",
+      "path": "nunit.extension.teamcityeventlistener/1.0.3",
+      "hashPath": "nunit.extension.teamcityeventlistener.1.0.3.nupkg.sha512"
+    },
+    "NUnit.Extension.VSProjectLoader/3.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3xKLI7hnP5JWL1tauj2OaF7PFoGTNspryvk+894ZQsmEeRHDJwrfxc2sfWokFo2vZmlVCrCcVDl+9ALrhbhrYg==",
+      "path": "nunit.extension.vsprojectloader/3.7.0",
+      "hashPath": "nunit.extension.vsprojectloader.3.7.0.nupkg.sha512"
+    },
+    "NUnit.Runners/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wYWRGPB8aLZ0G7N9CJixUUYS8DQWEcJni4YC4myTGt8ARLcRWqIMlEDjGCOEPzXaDKenFv++/YT4cJnJE88Cmw==",
+      "path": "nunit.runners/3.8.0",
+      "hashPath": "nunit.runners.3.8.0.nupkg.sha512"
+    },
+    "Bob.Generics.Structures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bob.Generics.Structures.RTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

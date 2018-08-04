@@ -1,0 +1,12 @@
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\obj\Debug\netstandard2.0\Bob.Generics.Structures.RTree.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\obj\Debug\netstandard2.0\Bob.Generics.Structures.RTree.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\obj\Debug\netstandard2.0\Bob.Generics.Structures.RTree.AssemblyInfoInputs.cache
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\obj\Debug\netstandard2.0\Bob.Generics.Structures.RTree.AssemblyInfo.cs
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\bin\Debug\netstandard2.0\Bob.Generics.Structures.RTree.deps.json
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\bin\Debug\netstandard2.0\Bob.Generics.Structures.RTree.dll
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\bin\Debug\netstandard2.0\Bob.Generics.Structures.RTree.pdb
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\bin\Debug\netstandard2.0\Bob.Generics.Structures.dll
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\bin\Debug\netstandard2.0\Bob.Generics.Structures.pdb
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\obj\Debug\netstandard2.0\Bob.Generics.Structures.RTree.csproj.CopyComplete
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\obj\Debug\netstandard2.0\Bob.Generics.Structures.RTree.dll
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree\obj\Debug\netstandard2.0\Bob.Generics.Structures.RTree.pdb

@@ -1,0 +1,9 @@
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures\obj\Debug\netstandard2.0\Bob.Generics.Structures.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures\obj\Debug\netstandard2.0\Bob.Generics.Structures.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures\obj\Debug\netstandard2.0\Bob.Generics.Structures.AssemblyInfoInputs.cache
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures\obj\Debug\netstandard2.0\Bob.Generics.Structures.AssemblyInfo.cs
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures\bin\Debug\netstandard2.0\Bob.Generics.Structures.deps.json
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures\bin\Debug\netstandard2.0\Bob.Generics.Structures.dll
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures\bin\Debug\netstandard2.0\Bob.Generics.Structures.pdb
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures\obj\Debug\netstandard2.0\Bob.Generics.Structures.dll
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures\obj\Debug\netstandard2.0\Bob.Generics.Structures.pdb

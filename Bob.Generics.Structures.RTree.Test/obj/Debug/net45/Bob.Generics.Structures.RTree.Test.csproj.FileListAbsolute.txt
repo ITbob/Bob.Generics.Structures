@@ -1,0 +1,14 @@
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\bin\Debug\net45\Bob.Generics.Structures.RTree.Test.dll
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\bin\Debug\net45\Bob.Generics.Structures.RTree.Test.pdb
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\bin\Debug\net45\nunit.framework.dll
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\bin\Debug\net45\Bob.Generics.Structures.dll
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\bin\Debug\net45\Bob.Generics.Structures.RTree.dll
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\bin\Debug\net45\Bob.Generics.Structures.RTree.pdb
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\bin\Debug\net45\Bob.Generics.Structures.pdb
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\obj\Debug\net45\Bob.Generics.Structures.RTree.Test.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\obj\Debug\net45\Bob.Generics.Structures.RTree.Test.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\obj\Debug\net45\Bob.Generics.Structures.RTree.Test.AssemblyInfoInputs.cache
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\obj\Debug\net45\Bob.Generics.Structures.RTree.Test.AssemblyInfo.cs
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\obj\Debug\net45\Bob.Generics.Structures.RTree.Test.csproj.CopyComplete
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\obj\Debug\net45\Bob.Generics.Structures.RTree.Test.dll
+C:\Users\Freddy\source\repos\Bob.Generics.Structures\Bob.Generics.Structures.RTree.Test\obj\Debug\net45\Bob.Generics.Structures.RTree.Test.pdb
