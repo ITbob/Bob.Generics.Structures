@@ -1,0 +1,9 @@
+language: csharp
+solution: Bob.Generics.Structures.sln
+mono: none
+install:
+    -nuget restore Bob.Generics.Structures.sln
+    -nuget install NUnit.Runners -Version 3.8.0 -OutputDirectory testrunner
+  script:
+    -xbuild /p:Configuration=Release Bob.Generics.Structures.sln
+    -mono ./testrunner/NUnit.Runners.3.8.0/tools/nunit-console.exe ./Bob.Generics.BoundingBox.Test/bin/Release/Net45/Bob.Generics.BoundingBox.Test.dll
